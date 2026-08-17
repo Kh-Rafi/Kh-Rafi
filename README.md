@@ -1,7 +1,8 @@
-[![HackerRank Badge](https://vercel.app)](https://hackerrank.com)
 <div align="center">
-  <a href="https://hackerrank.com">
-    <img src="https://vercel.app" alt="HackerRank Problem Solving Badge" /><br />
+  <a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME" target="_blank">
+    <img src="https://shields.io" alt="HackerRank Problem Solving" />
+    <br />
     <sub><b>Problem Solving ★★★★★</b></sub>
   </a>
 </div>
+

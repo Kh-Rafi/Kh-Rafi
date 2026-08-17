@@ -1,4 +1,4 @@
-<h2 align="center">🏆 HackerRank Badges</h2>
+<h2 align="right">🏆 HackerRank Badges</h2>
 
 <div align="left">
 

@@ -5,7 +5,7 @@
   </a>
   <div align="center">
   <a href="https://www.hackerrank.com/profile/mehedihasanrafi4">
-    <img src="./assets/pythin_gold.png" width="130" alt="Python 5 Star"/>
+    <img src="./assets/pythin_gold.png.png" width="130" alt="Python 5 Star"/>
   </a>
 </div>
 

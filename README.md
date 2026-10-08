@@ -5,8 +5,8 @@
   </a>
   <a href="https://www.hackerrank.com/profile/mehedihasanrafi4">
     <img src="./assets/gold.png" width="130" alt="Python 5 Star"/>
-    <img src="./assets/fast_api..png" width="115" alt="FAST_API"/>
   </a>
+  <a> <img src="./assets/fast_api..png" width="115" alt="FAST_API"/></a>
 </div>
 
 
